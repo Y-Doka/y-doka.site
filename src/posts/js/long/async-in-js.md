@@ -17,6 +17,8 @@ summary:
   - promise промис
   - then
   - catch
+cover:
+  desktop: '/assets/images/posts/async-in-js/cover.png'
 ---
 
 ## Кратко
@@ -285,7 +287,7 @@ main()
 
 [Loupe](http://latentflip.com/loupe/) интерактивный, попробуйте ввести какой-нибудь код в поле слева, и справа будет показываться, что и в какой момент попадает в стек вызовов и очередь событий:
 
-![Веб-интерфейс инструмента Loupe](/assets/images/posts/asynk-in-js/Screenshot_2020-07-11_at_15.46.58.png)
+![Веб-интерфейс инструмента Loupe](/assets/images/posts/async-in-js/Screenshot_2020-07-11_at_15.46.58.png)
 
 #### Колбэки
 
